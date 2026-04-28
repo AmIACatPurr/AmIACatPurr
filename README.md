@@ -1,2 +1,2 @@
-- 👋 Hi, I’m hacker cat
-- 👀 I’m interested in giving away free resources
+- 👋 Hi, I’m a curious cat
+- 👀 I’m interested in giving free resources
